@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Correios Update Status\n"
+"POT-Creation-Date: 2017-04-05 03:44-0300\n"
+"PO-Revision-Date: 2017-04-05 03:44-0300\n"
+"Last-Translator: \n"
+"Language-Team: Trinity Web <contato@trinityweb.com.br>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x;_n_noop\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: includes\n"
+
+#: correios-update-status.php:208
+msgid "Order has been delivered."
+msgstr ""
+
+#: correios-update-status.php:215
+msgid "Delivery failed."
+msgstr ""
+
+#: correios-update-status.php:230 correios-update-status.php:242
+msgid "Delivery Failed"
+msgstr ""
+
+#: correios-update-status.php:235
+#, php-format
+msgid "Delivery Failed <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: includes/admin/admin-page.php:4
+msgid "Sincronizar Pedidos"
+msgstr ""
+
+#: includes/admin/admin-page.php:5
+msgid "Delivery Checkout"
+msgstr ""
+
+#: includes/admin/admin-page.php:20
+msgid "Sincronizar entrega dos correios!"
+msgstr ""
+
+#: includes/admin/admin-page.php:27
+msgid ""
+"Clicando no botão abaixo você estará sincronizando todos os pedidos que já "
+"foram entregues, de acordo com consulta a base de dados dos correios."
+msgstr ""
+
+#: includes/admin/admin-page.php:30
+msgid ""
+"Lembrando que o processo só será aplicado aos pedidos que tiverem o Código "
+"de Rastreamento preenchido"
+msgstr ""
+
+#: includes/admin/admin-page.php:34
+msgid "Checkout"
+msgstr ""
+
+#~ msgid "Sincronizar Entregas"
+#~ msgstr "Sincronizar Entregas"
