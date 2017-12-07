@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: Correios Update Status
-Plugin URI: http://trinityweb.com.br/correios-update-status
+Plugin URI: https://github.com/thivalls/correios-update-status
 Description: This plugin updates your orders automatically if it has already been delivered by Correios. Also add a field to add the tracking code more easily.
-Version: 1.0
+Version: 1.0.1
 Author: Thiago Valls
 Author URI: http://trinityweb.com.br/
 Text Domain: correios-update-status
@@ -32,7 +32,7 @@ if ( ! class_exists( 'TWCorreiosUpdateStatus' ) ) :
          *
          * @var string
          */
-        const VERSION = '1.0.0';
+        const VERSION = '1.0.1';
 
         /**
          * Instance of this class.

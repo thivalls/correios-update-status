@@ -44,9 +44,15 @@ Este plugin esta licenciado como GPL.
 
 == Changelog ==
 
-= 1.0 - 2017/04/06 =
-* Initial version
-
 = 1.0.1 - 2017/04/08 =
-* Corrigindo bug de sincronização com apenas um elemento a ser alterado.
-* Diferenciando Busca de vários elementos e de apenas uma elemento na API dos Correios
+
+- Corrigindo bug de sincronização com apenas um elemento a ser alterado.
+- Diferenciando Busca de vários elementos e de apenas uma elemento na API dos Correios
+
+= 1.0.0 - 2017/04/06 =
+
+- Initial version
+
+== Version 1.0.1 ==
+
+- Stable version.
